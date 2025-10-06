@@ -549,6 +549,10 @@ a {
   gap: 16px;
 }
 
+.trending-card {
+  min-height: 477.94px;
+}
+
 .trending-card::after,
 .like-card::after {
   content: "";
